@@ -5,7 +5,8 @@ function SetupInitialTimeline() {
           scaleX: [0, 1],
           easing: "easeInOutExpo",
           duration: 700,
-          opacity: [0.5,1]
+          opacity: [0.5,1],
+          delay: 500
        })
        .add({
           targets: ".title",
@@ -24,14 +25,28 @@ function SetupInitialTimeline() {
        })
 }
 
-$(document).ready(() => {
-   SetupInitialTimeline();
-
+$(document).ready(async () => {
+    await VANTA.NET({
+        el: ".title-section",
+        mouseControls: false,
+        touchControls: false,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+    });
+    sal({
+        threshold: 0.01
+    });
+    SetupInitialTimeline();
+   /*
     $(window).on('scroll', animateSection);
-
     function animateSection() {
         let divider_height = Math.min(($(window).scrollTop()-(screen.height/4))/3.8, 140);
 
         $(".footer").css("border-bottom-width", divider_height)
     }
+
+     */
 });
