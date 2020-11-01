@@ -1,12 +1,12 @@
 function SetupInitialTimeline() {
    anime.timeline()
        .add({
-          targets: ".line",
+          targets: ".title-group .line",
           scaleX: [0, 1],
           easing: "easeInOutExpo",
           duration: 700,
           opacity: [0.5,1],
-          delay: 1800
+          delay: 600
        })
        .add({
           targets: ".title",
