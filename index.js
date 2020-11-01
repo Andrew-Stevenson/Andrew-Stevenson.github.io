@@ -6,7 +6,7 @@ function SetupInitialTimeline() {
           easing: "easeInOutExpo",
           duration: 700,
           opacity: [0.5,1],
-          delay: 500
+          delay: 1800
        })
        .add({
           targets: ".title",
@@ -33,7 +33,7 @@ $(document).ready(async () => {
         gyroControls: false,
         minHeight: 200.00,
         minWidth: 200.00,
-        scale: 1.00,
+        scale: 1,
         scaleMobile: 1.00,
     });
     sal({
