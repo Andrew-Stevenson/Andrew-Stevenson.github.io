@@ -35,6 +35,8 @@ $(document).ready(async () => {
         minWidth: 200.00,
         scale: 1,
         scaleMobile: 1.00,
+        color: 0xb008081,
+        backgroundColor: 0x101e,
     });
     sal({
         threshold: 0.01

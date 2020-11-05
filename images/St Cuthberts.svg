@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e1e1e1;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        mix-blend-mode: darken;
+      }
+
+      .cls-4 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-5 {
+        fill: #454545;
+      }
+
+      .cls-6 {
+        fill: #626262;
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        fill: #02b302;
+        stroke: #dadada;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path class="cls-1" d="M377,0H1900a20,20,0,0,1,20,20V1060a20,20,0,0,1-20,20H377a0,0,0,0,1,0,0V0A0,0,0,0,1,377,0Z"/>
+    <path id="Navbar" class="cls-2" d="M20,0H1900a20,20,0,0,1,20,20V148a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z"/>
+    <path id="Sidebar" class="cls-3" d="M20,0H376a0,0,0,0,1,0,0V1080a0,0,0,0,1,0,0H20a20,20,0,0,1-20-20V20A20,20,0,0,1,20,0Z"/>
+    <image class="cls-4" x="128" y="14" width="120" height="121" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB5CAYAAADyOOV3AAADiUlEQVR4nO2dXU7jMBRGk2pWMCxteIEF8sTWWENGqRrkuk3bJP6536dzJIRUgUl8uNeua9+M0zQNb5/vgxnTjtsZnbrg5+v7/P1P9yspwx6hOXkbFsJPAa5hM5f/zin5qkHt9pugFsHnzu4wpKSSpSJbKYKjRJJUREumaHgdBJuDYHOUBEeZ3DDJgjioCe4dPXKLH0SwOYqCe0WR5NJlSMHLQjkcJ6TgF5YiW0eT7AcPjMHmKAtuFVXSHxsSweYg2Bx1wbXTp/yuDiLYHASbg2BzHATXGifZVQnxQbA5CDYHweYg2BwEm4NgcxBsDoLNQbA5CDYHweYg2BwHwTVLOMhDBJuDYHPUBddOo/Jp+qng+ZwQZ4Xi8szN3TJK935peS1QVbxW0TVF2r6zNdjuCZ5SiT9f3xH3JrVOnd0lr4l9+3x/WKEvT9E3HTc3kDYSIF33GhdDjce5l4Sr116udLc0Nkd0x3Tdu5ObR3IeUCtSV9lcyrCj6EiV7qpLPip2IS0nvKuBdIyuKDri25UqkkuJna9vbutwMdJsfB6HsqIjvw9drq2I6FTsAak3FK02m1/YTuFqiwu7K9EmQ9xUK/stKdpiYR1uGFmLNgfB5iDYnPHvxz/GX2OIYHMQbA6CzUGwOQg2B8HmINgcBJuDYHMQbA6CzUGwOSe3R5vDFXzg786Jc0feEMHmLLsqx0q7GfeO76qbECLd7/laim6bLThhS9uJLrvEPedtFLvnwyn6coRlrFx5PeJMv/o9Hz3ZmZ9s2JSmK5xieEatYWTvtVRn7tukn7fc++/1bU7RHcSmRJDcNJss/bxT9NXhs+FR5zU6ZPYqvSSHOQT+RPTvyc9c8JB3XjCxKa0lh5gHvHD6cEx/7p5gJVpJllvOXQTz7MIYf6MarGSZw5PP+rXdBCLYHASb4yK4Rirl4ZQQHwvBNTYtuGyEsBAsvFBTHVK0OQg2B8HmINic8wf+KjPGSJMplT4jgldwmZkj2BwEm4PgFVjJAglcBBffmzVvZnOIYiLYHASbg2BzeED0AxzGYSLYHASbwwOin6Cepolgc5QFNztdqBzFRLA5qoKbHwBXjWIi2JzSZZRa0K1GxyWKpY60EMHmqAnuXkZJ7VG8RLA5CDYHwTtQ2lKrJrj7DFZtFq34Nql5Jdq0fKPahnhFwSnVZCtLTVEXnHKo5vIsNBX5SKrMkuUwDP8BRScUyLPCWZwAAAAASUVORK5CYII="/>
+    <rect id="Side_Border" data-name="Side Border" class="cls-1" x="376" width="1" height="1080"/>
+    <rect id="Top_Border" data-name="Top Border" class="cls-1" y="148" width="1920" height="2"/>
+    <rect id="Page_Header" data-name="Page Header" class="cls-2" x="490" y="228" width="1342" height="102" rx="7" ry="7"/>
+    <rect id="Page_Table" data-name="Page Table" class="cls-2" x="490" y="370" width="1342" height="570" rx="7" ry="7"/>
+    <rect id="Table_Row_1" data-name="Table Row 1" class="cls-1" x="490" y="454" width="1342" height="1"/>
+    <rect id="Table_Row_2" data-name="Table Row 2" class="cls-1" x="491" y="534" width="1342" height="1"/>
+    <rect class="cls-5" x="18" y="184" width="150" height="20"/>
+    <rect class="cls-5" x="517" y="403" width="98" height="13"/>
+    <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-5" x="723" y="403" width="91" height="13"/>
+    <path id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" class="cls-6" d="M722.99,494h110v8h-110v-8Z"/>
+    <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-5" x="18" y="349" width="153" height="20"/>
+    <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-5" x="18" y="294" width="134" height="20"/>
+    <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-5" x="18" y="239" width="194" height="20"/>
+    <circle id="Status_1" data-name="Status 1" class="cls-7" cx="566" cy="498" r="20"/>
+  </g>
+</svg>
