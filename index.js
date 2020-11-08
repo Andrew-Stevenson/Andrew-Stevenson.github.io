@@ -25,8 +25,8 @@ function SetupInitialTimeline() {
        })
 }
 
-$(document).ready(async () => {
-    await VANTA.NET({
+$(document).ready(() => {
+    VANTA.NET({
         el: ".title-section",
         mouseControls: false,
         touchControls: false,
@@ -42,13 +42,4 @@ $(document).ready(async () => {
         threshold: 0.01
     });
     SetupInitialTimeline();
-   /*
-    $(window).on('scroll', animateSection);
-    function animateSection() {
-        let divider_height = Math.min(($(window).scrollTop()-(screen.height/4))/3.8, 140);
-
-        $(".footer").css("border-bottom-width", divider_height)
-    }
-
-     */
 });
