@@ -38,8 +38,8 @@ $(document).ready(() => {
         color: 0xb008081,
         backgroundColor: 0x101e,
     });
+    SetupInitialTimeline();
     sal({
         threshold: 0.01
     });
-    SetupInitialTimeline();
 });
